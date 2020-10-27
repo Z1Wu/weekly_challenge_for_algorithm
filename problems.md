@@ -53,7 +53,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[50.Pow(x, n)](https://leetcode.com/problems/powx-n)||Medium|
 -|[51.N-Queens](https://leetcode.com/problems/n-queens)||Hard|
 -|[52.N-Queens II](https://leetcode.com/problems/n-queens-ii)||Hard|
--|[53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray)||Easy|
+✔|[53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](week04_dynamic_programming/53.maximum-subarray.cpp)|Easy|[week04_dynamic_programming](week04_dynamic_programming)
 -|[54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix)||Medium|
 -|[55.Jump Game](https://leetcode.com/problems/jump-game)||Medium|
 -|[56.Merge Intervals](https://leetcode.com/problems/merge-intervals)||Medium|
@@ -70,7 +70,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[67.Add Binary](https://leetcode.com/problems/add-binary)||Easy|
 -|[68.Text Justification](https://leetcode.com/problems/text-justification)||Hard|
 -|[69.Sqrt(x)](https://leetcode.com/problems/sqrtx)||Easy|
--|[70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs)||Easy|
+✔|[70.Climbing Stairs](https://leetcode.com/problems/climbing-stairs)|[C++](week04_dynamic_programming/70.climbing-stairs.cpp)|Easy|[week04_dynamic_programming](week04_dynamic_programming)
 -|[71.Simplify Path](https://leetcode.com/problems/simplify-path)||Medium|
 -|[72.Edit Distance](https://leetcode.com/problems/edit-distance)||Hard|
 -|[73.Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)||Medium|
@@ -96,7 +96,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)||Medium|
 -|[94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||Medium|
 -|[95.Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)||Medium|
--|[96.Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)||Medium|
+✔|[96.Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[C++](week04_dynamic_programming/96.unique-binary-search-trees.cpp)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
 -|[97.Interleaving String](https://leetcode.com/problems/interleaving-string)||Hard|
 -|[98.Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)||Medium|
 -|[99.Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree)||Hard|
@@ -152,7 +152,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[149.Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line)||Hard|
 -|[150.Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)||Medium|
 -|[151.Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)||Medium|
--|[152.Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)||Medium|
+✔|[152.Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)|[C++](week04_dynamic_programming/152.maximum-product-subarray.cpp)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
 -|[153.Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)||Medium|
 -|[154.Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)||Hard|
 -|[155.Min Stack](https://leetcode.com/problems/min-stack)||Easy|
@@ -198,7 +198,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[195.Tenth Line](https://leetcode.com/problems/tenth-line)||Easy|
 -|[196.Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)||Easy|
 -|[197.Rising Temperature](https://leetcode.com/problems/rising-temperature)||Easy|
--|[198.House Robber](https://leetcode.com/problems/house-robber)||Easy|
+✔|[198.House Robber](https://leetcode.com/problems/house-robber)|[C++](week04_dynamic_programming/198.house-robber.cpp)|Easy|[week04_dynamic_programming](week04_dynamic_programming)
 -|[199.Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)||Medium|
 -|[200.Number of Islands](https://leetcode.com/problems/number-of-islands)||Medium|
 -|[201.Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)||Medium|
@@ -303,7 +303,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[300.Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)||Medium|
 -|[301.Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)||Hard|
 -|[302.Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)||Hard|
--|[303.Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable)||Easy|
+✔|[303.Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query---immutable)|[C++](week04_dynamic_programming/303.range-sum-query-immutable.cpp)|Easy|[week04_dynamic_programming](week04_dynamic_programming)
 -|[304.Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d---immutable)||Medium|
 -|[305.Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)||Hard|
 -|[306.Additive Number](https://leetcode.com/problems/additive-number)||Medium|
@@ -1141,7 +1141,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[1140.Stone Game II](https://leetcode.com/problems/stone-game-ii)||Medium|
 -|[1141.User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)||Easy|
 -|[1142.User Activity for the Past 30 Days II](https://leetcode.com/problems/user-activity-for-the-past-30-days-ii)||Easy|
--|[1143.Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)||Medium|
+✔|[1143.Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)|[Python](week04_dynamic_programming/1143.longest-common-subsequence.py)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
 -|[1144.Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)||Medium|
 -|[1145.Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game)||Medium|
 -|[1146.Snapshot Array](https://leetcode.com/problems/snapshot-array)||Medium|

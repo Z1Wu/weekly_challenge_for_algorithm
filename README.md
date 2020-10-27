@@ -3,7 +3,7 @@ Record Learning Process of Algorithm Course
 
 ## Progress
 ```
-  0%|                                                                  | 0/1456 [168:00:00<?, ?it/s]
+  0%|▏                                                | 7/1456 [168:00:00<34776:00:00, 86400.00s/it]
 ```
 [[Problem List]](./problems.md)
 

@@ -66,7 +66,6 @@ def get_problem_id(name):
             pass
     return None
 
-
 list_fname = './problems.lst'
 PROBLEM_LIST = read_problems_list(list_fname)
 
