@@ -31,7 +31,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[28.Implement strStr()](https://leetcode.com/problems/implement-strstr)||Easy|
 -|[29.Divide Two Integers](https://leetcode.com/problems/divide-two-integers)||Medium|
 -|[30.Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)||Hard|
--|[31.Next Permutation](https://leetcode.com/problems/next-permutation)||Medium|
+✔|[31.Next Permutation](https://leetcode.com/problems/next-permutation)|[C++](week07_array/31.next-permutation.cpp)|Medium|[week07_array](week07_array)
 -|[32.Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)||Hard|
 -|[33.Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)||Medium|
 -|[34.Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)||Medium|
@@ -40,18 +40,18 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[37.Sudoku Solver](https://leetcode.com/problems/sudoku-solver)||Hard|
 -|[38.Count and Say](https://leetcode.com/problems/count-and-say)||Easy|
 -|[39.Combination Sum](https://leetcode.com/problems/combination-sum)||Medium|
--|[40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii)||Medium|
+✔|[40.Combination Sum II](https://leetcode.com/problems/combination-sum-ii)|[C++](week05_backtracking/40.combination-sum-ii.cpp)|Medium|[week05_backtracking](week05_backtracking)
 -|[41.First Missing Positive](https://leetcode.com/problems/first-missing-positive)||Hard|
 -|[42.Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)||Hard|
 -|[43.Multiply Strings](https://leetcode.com/problems/multiply-strings)||Medium|
 -|[44.Wildcard Matching](https://leetcode.com/problems/wildcard-matching)||Hard|
 -|[45.Jump Game II](https://leetcode.com/problems/jump-game-ii)||Hard|
 -|[46.Permutations](https://leetcode.com/problems/permutations)||Medium|
--|[47.Permutations II](https://leetcode.com/problems/permutations-ii)||Medium|
+✔|[47.Permutations II](https://leetcode.com/problems/permutations-ii)|[C++](week05_backtracking/47.permutations-ii.cpp)|Medium|[week05_backtracking](week05_backtracking)
 -|[48.Rotate Image](https://leetcode.com/problems/rotate-image)||Medium|
 -|[49.Group Anagrams](https://leetcode.com/problems/group-anagrams)||Medium|
 -|[50.Pow(x, n)](https://leetcode.com/problems/powx-n)||Medium|
--|[51.N-Queens](https://leetcode.com/problems/n-queens)||Hard|
+✔|[51.N-Queens](https://leetcode.com/problems/n-queens)|[C++](week05_backtracking/51.n-queens.cpp)|Hard|[week05_backtracking](week05_backtracking)
 -|[52.N-Queens II](https://leetcode.com/problems/n-queens-ii)||Hard|
 ✔|[53.Maximum Subarray](https://leetcode.com/problems/maximum-subarray)|[C++](week04_dynamic_programming/53.maximum-subarray.cpp)|Easy|[week04_dynamic_programming](week04_dynamic_programming)
 -|[54.Spiral Matrix](https://leetcode.com/problems/spiral-matrix)||Medium|
@@ -62,8 +62,8 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[59.Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)||Medium|
 -|[60.Permutation Sequence](https://leetcode.com/problems/permutation-sequence)||Medium|
 -|[61.Rotate List](https://leetcode.com/problems/rotate-list)||Medium|
--|[62.Unique Paths](https://leetcode.com/problems/unique-paths)||Medium|
--|[63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii)||Medium|
+✔|[62.Unique Paths](https://leetcode.com/problems/unique-paths)|[C++](week04_dynamic_programming/62.unique-paths.cpp)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
+✔|[63.Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|[C++](week04_dynamic_programming/63.unique-paths-ii.cpp)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
 -|[64.Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)||Medium|
 -|[65.Valid Number](https://leetcode.com/problems/valid-number)||Hard|
 -|[66.Plus One](https://leetcode.com/problems/plus-one)||Easy|
@@ -95,7 +95,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[92.Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)||Medium|
 -|[93.Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses)||Medium|
 -|[94.Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)||Medium|
--|[95.Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)||Medium|
+✔|[95.Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)|[C++](week04_dynamic_programming/95.unique-binary-search-trees-ii.cpp)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
 ✔|[96.Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)|[C++](week04_dynamic_programming/96.unique-binary-search-trees.cpp)|Medium|[week04_dynamic_programming](week04_dynamic_programming)
 -|[97.Interleaving String](https://leetcode.com/problems/interleaving-string)||Hard|
 -|[98.Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)||Medium|
@@ -980,7 +980,7 @@ Done|Title|Solution(s)|Difficulty|Topic
 -|[977.Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)||Easy|
 -|[978.Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)||Medium|
 -|[979.Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)||Medium|
--|[980.Unique Paths III](https://leetcode.com/problems/unique-paths-iii)||Hard|
+✔|[980.Unique Paths III](https://leetcode.com/problems/unique-paths-iii)|[C++](week05_backtracking/980.unique-paths-iii.cpp)|Hard|[week05_backtracking](week05_backtracking)
 -|[981.Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store)||Medium|
 -|[982.Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)||Hard|
 -|[983.Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)||Medium|
